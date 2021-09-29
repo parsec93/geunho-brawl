@@ -35,7 +35,6 @@ public class HelloController {
         return hello;
     }
 
-
     static class Hello {
         private String name;
 
@@ -47,6 +46,5 @@ public class HelloController {
             this.name = name;
         }
     }
-
 
 }
